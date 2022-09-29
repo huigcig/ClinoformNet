@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Xdmf SYSTEM "Xdmf.dtd">
+<Xdmf Version="2.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+ <Domain>
+    <Grid GridType="Collection" CollectionType="Temporal">
+      <xi:include href="xmf/flow.time0.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/flow.time1.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/flow.time2.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/flow.time3.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/flow.time4.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/flow.time5.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/flow.time6.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/flow.time7.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/flow.time8.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/flow.time9.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/flow.time10.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/flow.time11.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/flow.time12.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/flow.time13.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/flow.time14.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/flow.time15.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/flow.time16.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/flow.time17.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/flow.time18.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/flow.time19.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/flow.time20.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/flow.time21.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/flow.time22.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/flow.time23.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/flow.time24.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/flow.time25.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/flow.time26.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/flow.time27.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/flow.time28.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/flow.time29.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/flow.time30.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/flow.time31.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/flow.time32.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/flow.time33.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/flow.time34.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/flow.time35.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/flow.time36.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/flow.time37.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/flow.time38.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/flow.time39.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/flow.time40.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/flow.time41.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/flow.time42.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/flow.time43.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/flow.time44.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/flow.time45.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/flow.time46.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/flow.time47.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/flow.time48.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/flow.time49.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/flow.time50.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+    </Grid>
+ </Domain>
+</Xdmf>

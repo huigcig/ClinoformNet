@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Xdmf SYSTEM "Xdmf.dtd">
+<Xdmf Version="2.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+ <Domain>
+    <Grid GridType="Collection" CollectionType="Temporal">
+      <xi:include href="xmf/tin.time0.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/tin.time1.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/tin.time2.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/tin.time3.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/tin.time4.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/tin.time5.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/tin.time6.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/tin.time7.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/tin.time8.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/tin.time9.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/tin.time10.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/tin.time11.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/tin.time12.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/tin.time13.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/tin.time14.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/tin.time15.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/tin.time16.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/tin.time17.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/tin.time18.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/tin.time19.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/tin.time20.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/tin.time21.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/tin.time22.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/tin.time23.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/tin.time24.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/tin.time25.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/tin.time26.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/tin.time27.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/tin.time28.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/tin.time29.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/tin.time30.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/tin.time31.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/tin.time32.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/tin.time33.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/tin.time34.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/tin.time35.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/tin.time36.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/tin.time37.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/tin.time38.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/tin.time39.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/tin.time40.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/tin.time41.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/tin.time42.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/tin.time43.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/tin.time44.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/tin.time45.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/tin.time46.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/tin.time47.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/tin.time48.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/tin.time49.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="xmf/tin.time50.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+    </Grid>
+ </Domain>
+</Xdmf>
